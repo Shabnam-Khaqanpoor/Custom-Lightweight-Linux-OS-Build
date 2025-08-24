@@ -58,7 +58,7 @@ make menuconfig
 The following key parameters were configured according to the project requirements:
 
 - **Target options:** Set to `x86_64` architecture  
-- **System configuration:** Hostname set to `oslab-shabnam`, root password set to `"shabnam"`  
+- **System configuration:** Hostname set to `optional name`, root password set to `"optional name"`  
 - **Target packages:** `dropbear` (an SSH server) selected  
 - **Filesystem images:** Generate an `ext4` root filesystem with a size of **120M**  
 - **Bootloader:** `grub2` with support for `x86-64-efi`  
